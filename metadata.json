@@ -1,0 +1,6 @@
+{
+  "name": "Tissue Lounge",
+  "description": "A cinematic, premium product showcase website for luxury, eco-friendly tissue papers and napkins, featuring realistic 3D-style transitions and auto-scroll carousel catalogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
